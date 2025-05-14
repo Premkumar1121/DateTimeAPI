@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NmuMpiuGHcONLS3jrM7KULO98EzKm71X2zDbqCBzsFY=",
+  "Source": "TimeApi",
+  "BasePath": "_content/TimeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
